@@ -94,6 +94,8 @@ textarea {
    }
    body {
      background: #f2f2f2;
+     font-family: 'Open Sans', sans-serif;
+
    }
    div.hero {
      background-image: url(../img/encabezado.jpg);
@@ -143,6 +145,21 @@ textarea {
       float: right;
       text-align: right;
     }
+    p.slogan {
+      text-transform: none!important;
+    }
+    h1.nombre-sitio {
+      font-family: 'PT Sans', sans-serif;
+      font-size: 5.9w;
+      text-transform: uppercase;
+    }
+    h2 {
+      font-family: 'Oswald', sans-serif;
+    }
+    p.slogan span {
+      font-weight: bold;
+    }
+
 
 
 /* ==========================================================================
